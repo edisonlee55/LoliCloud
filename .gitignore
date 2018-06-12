@@ -4,7 +4,7 @@ node_modules/
 uploads/
 logs/
 database/db
-config.js
+# config.js
 start.json
 npm-debug.log
 pages/custom/**
